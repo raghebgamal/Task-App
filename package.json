@@ -1,0 +1,22 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "heroku": "^7.69.1",
+    "ndb": "^0.2.4",
+    "nodemon": "^2.0.21",
+    "postman-request": "^2.88.1-postman.32",
+    "validator": "^13.9.0",
+    "yargs": "^13.3.2"
+  }
+}
